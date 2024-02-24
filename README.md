@@ -1,4 +1,4 @@
-## Full Python
+## Python
 Haciendo uso de OCR y PIL analiza para luego extraer texto de imágenes.
 
 ## Funcionalidad
